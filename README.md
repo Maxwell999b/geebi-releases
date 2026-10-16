@@ -40,7 +40,9 @@ Android shows this notice for **every app installed outside Google Play**. It is
 ## Updating
 
 - The app shows the latest screens and features automatically whenever you open it. You do **not** need to reinstall for normal updates.
-- Occasionally a new Android file is needed. The app will then tell you, and you download the newest `geebi.apk` from this page and install it **over** the old one. Your data stays on your account.
+- When a new Android version is released, the app tells you with a banner and a phone notification. Tap **Update now**: the app downloads the new version and Android asks you to confirm the install once. It installs **over** the old one. Your data stays on your account, and you never need to uninstall.
+- On older versions (1.1.0 and below) the banner has a download link instead. Download the newest `geebi.apk` and install it over the old one. Once you are on 1.2.0 or later, the in-app **Update now** button is available.
+- The first time you update, Android may ask you to allow Geebi to install updates, and to allow notifications. Both are optional but make updating smoother.
 
 ## Verify the download
 
@@ -84,7 +86,9 @@ AC:E6:78:9C:83:8A:24:EB:29:BE:7F:44:14:59:F2:75:3F:68:97:B7:3E:16:5B:EF:6D:6E:F3
 
 ### التحديث
 - التطبيق يعرض أحدث الشاشات والمزايا تلقائياً عند فتحه، ولا تحتاج لإعادة التثبيت في التحديثات العادية.
-- أحياناً يلزم ملف أندرويد جديد، وسيخبرك التطبيق بذلك. حمّل أحدث `geebi.apk` وثبّته **فوق** القديم وبياناتك محفوظة في حسابك.
+- عند صدور نسخة أندرويد جديدة يخبرك التطبيق بشريط تنبيه وإشعار على الهاتف. اضغط **تحديث الآن** فيحمّل التطبيق النسخة الجديدة ويطلب منك أندرويد تأكيد التثبيت مرة واحدة. يثبّت **فوق** النسخة القديمة وبياناتك محفوظة في حسابك، ولا تحتاج لحذف التطبيق.
+- في النسخ الأقدم (1.1.0 وما قبلها) يظهر رابط تحميل بدل الزر. حمّل أحدث `geebi.apk` وثبّته فوق القديم. بعد الوصول إلى 1.2.0 أو أحدث يتوفر زر **تحديث الآن** داخل التطبيق.
+- في أول تحديث قد يطلب أندرويد السماح لجيبي بتثبيت التحديثات والسماح بالإشعارات، وكلاهما اختياري لكنه يسهّل التحديث.
 
 ---
 
